@@ -1,0 +1,4 @@
+*.amp
+*.elf
+*.S.o
+*.srec
